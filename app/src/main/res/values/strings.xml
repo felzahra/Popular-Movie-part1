@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies_S1</string>
+    <string name="release_date">Release Date:</string>
+    <string name="user_rating_average">User Rating Average:</string>
+    <string name="plot_synopsis">Plot Synopsis:</string>
+    <string name="api_ky_msg">No API key  set,please set the MOVIEDB_API_KEY in MainGridActivity!</string>
+    <string name="no_connection_msg">Not connected to the internet</string>
+    <string name="img_root">http://image.tmdb.org/t/p/w185</string>
+    <string name="wait_msg">Please wait…</string>
+    <string name="sort_by_most_popular">Sort By: Most Popular</string>
+    <string name="sort_by_top_rated">Sort By: Top Rated</string>
+</resources>
